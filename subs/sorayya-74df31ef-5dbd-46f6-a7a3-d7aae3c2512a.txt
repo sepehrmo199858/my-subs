@@ -1,1 +1,1 @@
-vless://74df31ef-5dbd-46f6-a7a3-d7aae3c2512a@92.119.124.84:18074?type=grpc&serviceName=&authority=&security=reality&pbk=bPU0eGBBMmGBlFcyIw58QZfHwRXfgXSmoTSYPqwLrlI&fp=chrome&sni=healthyfood2025.tostart.shop&sid=3fc38c6b782ae429&spx=%2F#REVNGX-sorayya
+ss://YWVzLTI1Ni1nY206UFUrdE9LRlhya1ZOdjYwbG9MMkRaQWY1aXE0akZXNEFYRTZ5TmptaHdvbz0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#sorayya
