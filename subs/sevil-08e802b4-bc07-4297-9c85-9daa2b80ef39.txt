@@ -1,1 +1,1 @@
-vless://08e802b4-bc07-4297-9c85-9daa2b80ef39@92.119.124.84:18074?type=grpc&serviceName=&authority=&security=reality&pbk=bPU0eGBBMmGBlFcyIw58QZfHwRXfgXSmoTSYPqwLrlI&fp=chrome&sni=healthyfood2025.tostart.shop&sid=3fc38c6b782ae429&spx=%2F#REVNGX-sevil
+ss://YWVzLTI1Ni1nY206MUNGanh3VExrcEpldXZvYzUrbHkyUTBPLy9kNHMvTVpsT240eHdwK3JOUT0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#sevil
