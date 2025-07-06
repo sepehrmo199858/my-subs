@@ -1,1 +1,1 @@
-vless://33a5ecbc-75c5-4024-b68a-0ad3dead8575@92.119.124.84:18074?type=grpc&serviceName=&authority=&security=reality&pbk=bPU0eGBBMmGBlFcyIw58QZfHwRXfgXSmoTSYPqwLrlI&fp=chrome&sni=healthyfood2025.tostart.shop&sid=3fc38c6b782ae429&spx=%2F#REVNGX-parvane
+ss://YWVzLTI1Ni1nY206ZjZPa0w2c25CYXR4VWpnS1owRVVuR2tpcWhyU2NMdC91dFBnOWNIaUtZWT0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#Parvane
