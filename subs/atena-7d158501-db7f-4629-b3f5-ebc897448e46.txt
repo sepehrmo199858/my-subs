@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206WHc5T3ZMU0phckxYTnIxRkR5UFRRTWxLd0lTOGNHM0pVeDJKTExIL1hEaz0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#sepehr
+ss://YWVzLTI1Ni1nY206S0JRSGhhZlhkQ0s5cVlGTmRxZWJEU0ovbU51WXdmdlNUWncxMWJlaHVJQT0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#atena
