@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206MUNGanh3VExrcEpldXZvYzUrbHkyUTBPLy9kNHMvTVpsT240eHdwK3JOUT0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#sevil
+vless://d66db07e-96da-4ea2-a845-5a237e81d9d8@188.121.104.151:2020?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=1bZIGkZN6dfLTIxaKnDfv2m6MRfTVzPGDmvEXhyvHQU&fp=chrome&sni=yahoo.com&sid=bd239d29&spx=%2F#Irancell-Sevil%201
