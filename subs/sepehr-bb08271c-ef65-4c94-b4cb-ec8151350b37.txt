@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206WHc5T3ZMU0phckxYTnIxRkR5UFRRTWxLd0lTOGNHM0pVeDJKTExIL1hEaz0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#sepehr
+vless://ede78f4b-8829-4824-b13b-46f29803c982@188.121.104.151:2020?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=1bZIGkZN6dfLTIxaKnDfv2m6MRfTVzPGDmvEXhyvHQU&fp=chrome&sni=yahoo.com&sid=bd239d29&spx=%2F#Irancell-sepehr%201
