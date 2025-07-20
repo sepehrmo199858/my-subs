@@ -1,1 +1,0 @@
-vless://ff1486ea-4d14-4942-a7e7-e1091a80d60d@188.121.126.3:2090?type=ws&path=%2Fhome.php&host=zula.ir&security=none#XECV-asma
