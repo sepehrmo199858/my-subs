@@ -1,1 +1,1 @@
-vless://e5a55b85-93f6-44fa-8b8e-4f094e3aca3b@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-Rparvane
+vless://222cd68d-7e41-48c2-b927-8f6b389d48de@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RMom
