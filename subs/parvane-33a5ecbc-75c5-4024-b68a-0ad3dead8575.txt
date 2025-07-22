@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZjZPa0w2c25CYXR4VWpnS1owRVVuR2tpcWhyU2NMdC91dFBnOWNIaUtZWT0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#Parvane
-vless://503be352-99b6-4e0f-a539-1933f86a963b@188.121.104.151:2020?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=1bZIGkZN6dfLTIxaKnDfv2m6MRfTVzPGDmvEXhyvHQU&fp=chrome&sni=yahoo.com&sid=bd239d29&spx=%2F#Irancell-Parvane%201
+vless://e5a55b85-93f6-44fa-8b8e-4f094e3aca3b@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-Rparvane
