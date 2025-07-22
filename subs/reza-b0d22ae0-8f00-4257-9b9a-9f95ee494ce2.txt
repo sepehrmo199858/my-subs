@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206OHc5S09xcFVoKzVDMk8xV2hDMGJWY0VrOGd1TWYzc3VYS21pdUtiVlJtdz0@188.121.104.151:8443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=healthyfood2025.tostart.shop#reza
-vless://69679831-cd4b-4f0a-b8d6-e0dab00ab7fa@188.121.104.151:2020?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=1bZIGkZN6dfLTIxaKnDfv2m6MRfTVzPGDmvEXhyvHQU&fp=chrome&sni=yahoo.com&sid=bd239d29&spx=%2F#Irancell-Reza%201
+vless://24c7c5cb-eb62-4436-b337-d9911459b354@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RReza
