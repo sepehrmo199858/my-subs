@@ -1,1 +1,1 @@
-vless://ef65a100-b2ff-4cf2-aaf5-5ff6fb2c6c56@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RSepehr
+vless://ef65a100-b2ff-4cf2-aaf5-5ff6fb2c6c56@185.220.227.153:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RSepehr
