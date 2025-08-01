@@ -1,1 +1,1 @@
-vless://369b1330-f500-4bb5-b142-8c37b13338ad@185.220.227.1:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RAtena
+vless://369b1330-f500-4bb5-b142-8c37b13338ad@185.220.227.153:443?type=ws&path=%2Fhome.ir&host=zula.ir&security=none#XCCV-RAtena
