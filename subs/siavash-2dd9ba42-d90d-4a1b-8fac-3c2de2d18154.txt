@@ -1,0 +1,1 @@
+vless://2dd9ba42-d90d-4a1b-8fac-3c2de2d18154@185.228.236.82:2090?type=ws&path=%2Fhome.php&host=zula.ir&security=none#XEAAB-Siavash
