@@ -1,1 +1,1 @@
-vless://949b6e8c-8e60-4c8a-9ab9-f079dac3e68c@188.121.126.3:2090?type=ws&path=%2Fhome.php&host=zula.ir&security=none#XECV-Erfans%20Mom
+vless://949b6e8c-8e60-4c8a-9ab9-f079dac3e68c@185.228.236.82:2090?type=ws&path=%2Fhome.php&host=zula.ir&security=none#XEAAB-Erfans%20mom
